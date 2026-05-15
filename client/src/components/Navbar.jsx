@@ -35,7 +35,7 @@ const Navbar = () => {
           {/* Navbar */}
           <div className="relative z-10 leading-[1.5] text-center select-none">
             <div className="flex items-center justify-between h-14 px-4 md:px-6">
-              <Link to={"https://1xclube.com"}>
+              <Link to={"https://support.ind91.us"}>
                 <AiOutlineHome className="text-3xl cursor-pointer" />
               </Link>
               <h2 className="text-lg md:text-2xl font-normal text-gray-800 truncate">
